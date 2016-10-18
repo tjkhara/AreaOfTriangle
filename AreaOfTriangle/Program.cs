@@ -13,6 +13,10 @@ namespace AreaOfTriangle
             CalcArea();
         }
 
+        /// <summary>
+        /// Calculate the area of a triangle given the measurement of the three sides.
+        /// </summary>
+        
         static void CalcArea()
         {
             double a, b, c, p, area;
