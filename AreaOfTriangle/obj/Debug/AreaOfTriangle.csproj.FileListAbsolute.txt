@@ -1,0 +1,6 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb
